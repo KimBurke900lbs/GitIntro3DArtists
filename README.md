@@ -12,7 +12,7 @@ This project uses Unity 2021.3.4f1.
 
 - Unzip and drop the [StreamingAssets](https://drive.google.com) directory under Assets/ after cloning the project.
 
-=======================================================================================
+===========================================
 
 ## Tasks
 
