@@ -12,7 +12,7 @@ This project uses Unity 2021.3.4f1.
 
 - Unzip and drop the [StreamingAssets](https://drive.google.com) directory under Assets/ after cloning the project.
 
-=======================================================================================
+===========================================
 
 ## Tasks
 
@@ -36,6 +36,6 @@ This project uses Unity 2021.3.4f1.
 13. Make a commit with a message.
 
 14. Push your branch to the remote.
-15. Before making a pull request, check if your branch can merge with the develop.
-    a. If it is behind, pull develop into your branch and resolve any conflicts.
+15a. Before making a pull request, check if your branch can merge with the develop.
+15b. If it is behind, pull develop into your branch and resolve any conflicts.
 16. Create a pull request.
