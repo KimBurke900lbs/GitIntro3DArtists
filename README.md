@@ -19,23 +19,23 @@ This project uses Unity 2021.3.4f1.
 1. Clone down the project.
 2. Add the Ignored Folders to your project.
 3. Open Unity.
-
+----
 4. Make a new branch off of develop.
 5. Push your branch to the remote.
-
+----
 6. Add a model to the project. (Mesh files, texture files, etc.)
 7. Make a commit with a message describing the model you added.
-
+----
 8. Make changes to the Main scene.
 9. Make a commit with a message.
-
+----
 10. Update the lighting settings.
 11. Make a commit with a message.
-
+----
 12. Add a second model to the project.
 13. Make a commit with a message.
-
+----
 14. Push your branch to the remote.
 15. Before making a pull request, check if your branch can merge with the develop.
-    a. If it is behind, pull develop into your branch and resolve any conflicts.
-16. Create a pull request.
+16. If it is behind, pull develop into your branch and resolve any conflicts.
+17. Create a pull request.
